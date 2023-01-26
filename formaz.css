@@ -6,7 +6,7 @@ body
 
 }
 
-a
+a, a:visited, a:active
 {
     color: #A04000;
 }
